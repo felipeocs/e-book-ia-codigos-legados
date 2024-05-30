@@ -4,7 +4,7 @@
 
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. Todos os prompts seguem abaixo.
 
-[📕 Clique aqui para ler]()
+[📕 Clique aqui para ler](https://github.com/felipeocs/e-book-ia-codigos-legados/blob/main/output/E-book%20-%20IA%20e%20C%C3%B3digo%20Legado.pdf)
 
 ## 💻 Tecnologias utilizadas no projeto
 
